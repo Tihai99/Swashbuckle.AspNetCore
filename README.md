@@ -1,3 +1,4 @@
+[response_1732859840152.json](https://github.com/user-attachments/files/17955040/response_1732859840152.json)
 | :mega: Important notice if you're upgrading between major versions! |
 |--------------|
 |* If you're upgrading from 4.x to 5.x, there's several breaking changes to be aware of. See the [release notes](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/releases/tag/v5.0.0) for details<br />* If you're making the jump from 3.x to 4.x first, there be dragons there too. See [those release notes here](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/releases/tag/v4.0.0)|
